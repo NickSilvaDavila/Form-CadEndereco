@@ -26,6 +26,6 @@
 
 ## Fontes consultadas: 
 
-[Bootstrap5](https://getbootstrap.com/docs/5.3/forms/layout/) -
-
 ## Autores:
+
+[Bootstrap5](https://getbootstrap.com/docs/5.3/forms/layout/) 
