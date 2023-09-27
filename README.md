@@ -18,7 +18,15 @@
 
 ## Descrição: 
 
+É um site cujo o objectivo é construir Formularios de Endereço.
+
+<h4 align="center">
+    :construction: 🚧 Projeto em construção 🚧 :construction:
+</h4>
+
 ## Introdução:
+
+O site Formularios em Layout. O site ainda está em construção 🚧. O site possui as funcionabilidades, que são o 'CEP', 'Endereço', 'Recursos' e 'Contato. Cuja as descrições estão sendo fornecidas no Indíce de funcionalidades do site.
 
 ## Funcionalidades:
 
