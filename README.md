@@ -28,7 +28,12 @@ As Tecnologias ultilizadas foram....
 
     HTML5
 
- <img src="_img/html5.png" width="30%">
+<img src="_img/html5.png" width="30%">
+
+
+   CSS3
+
+   <img src="_img/CSS3.png" width="30%">
 
    GitHub
 
@@ -36,12 +41,11 @@ As Tecnologias ultilizadas foram....
 
    Visual Studio Code
 
-   <img src="_img/Visual Studio Code.png" width="30%">
+    <img src="_img/Visual Studio Code.png" width="30%">
 
    JavaScript
 
    <img src="_img/JavaScript.png" width="30%">
-
 
 
 ## Fontes consultadas: 
