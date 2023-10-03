@@ -35,7 +35,7 @@ const pesquisarCep = async() => {
        }else{
         preencherFormulario(adrdres);
        }
-     {else}     
+    }else{   
      alert('CEP Incorreto');
 
     }
