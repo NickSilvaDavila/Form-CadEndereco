@@ -32,6 +32,13 @@ const pesquisarCep = async() => {
 
        if(addres.hasOwnProperty('erro')){
         alert('CEP nao encontrado');
+       }else{
+        preencherFormulario(adrdres);
        }
+     {else}     
+     alert('CEP Incorreto');
+
     }
-}
+       }
+    //Adicionar evento DOM ao input do CEP para executar funçao pesquisarCep
+document.getElementById('cep').addEventListener('focusout', pesquisarCep);

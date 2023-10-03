@@ -41,7 +41,7 @@ As Tecnologias ultilizadas foram....
 
    CSS3
 
-   <img src="_img/css3.png" width="30%">
+  <img src="_img/css3.png" width="30%">
 
 
    GitHub
