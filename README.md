@@ -34,29 +34,33 @@ O site Formularios em Layout. O site ainda está em construção 🚧. O site po
 
 As Tecnologias ultilizadas foram....
 
-    HTML5
+HTML    
 
-  <img src="_img/html5.png" width="30%">
+<img src="_img/html.png" width="30%">
 
-
-   CSS3
-
-  <img src="_img/css3.png" width="30%">
-
-
-   GitHub
-
-   <img src="_img/GitHub.png" width="30%">
+ 
+ 
+GitHub
 
 
-   Visual Studio Code
+   <img src="_img/github.png" width="30%">
+
+
+
+Visual Studio Code
+
+ 
 
    <img src="_img/vscode.png" width="30%">
 
+ 
 
-   JavaScript
+JavaScript
 
-   <img src="_img/JavaScript.png" width="30%">
+ 
+
+   <img src="_img/javascript.png" width="30%">
+
 
 
 ## Fontes consultadas: 
