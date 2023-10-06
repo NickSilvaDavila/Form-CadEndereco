@@ -18,19 +18,24 @@
 
 ## Descrição: ꯭ᬁ🌷💫࿔
 
-É um site cujo o objectivo é construir Formularios de Endereço.
+O site tem como a sua principal função, informar os dados de endereço do cadastro automáticamente, apenas utilizando o CEP. Sua principal funcionalidade é a detecção do endereço via CEP. Com HTML, GitHub,Visual Studio Code e JavaScript tendo sido utilizadas no processo, além disso foi-se utilizado 3 fontes de consultas diferentes, todas elas presentes com links diretos no penúltimo indíce desse README.
+
 
 <h4 align="center">
     :construction: 🚧 Projeto em construção 🚧 :construction:
 </h4>
 
-## Introdução:
+▁ ▂ ▃ ▄▅ ▆ █ 100%
 
-O site Formularios em Layout. O site ainda está em construção 🚧. O site possui as funcionabilidades, que são o 'CEP', 'Endereço', 'Recursos' e 'Contato. Cuja as descrições estão sendo fornecidas no Indíce de funcionalidades do site.
+## Introdução: 𓆩♡𓆪
 
-## Funcionalidades:
+O site tem como a sua principal função, informar os dados de endereço do cadastro automáticamente, apenas utilizando o CEP.
 
-## Tecnológias utilizadas: 
+## Funcionalidades: 📚⃤
+
+Cadastrar o endereço apenas com o CEP.
+
+## Tecnológias utilizadas:🌺⃤
 
 As Tecnologias ultilizadas foram....
 
@@ -62,8 +67,9 @@ JavaScript
    <img src="_img/javascript.png" width="30%">
 
 
+꒷꒦꒷︶˚︶︶꒷꒦˚꒦꒷︶˚︶︶꒷꒦˚︶˚︶︶꒷꒦ ꒷꒦꒷︶˚︶︶꒷꒦˚꒦꒷︶˚︶︶꒷꒦˚︶˚︶︶꒷꒦ 
 
-## Fontes consultadas: 
+## Fontes consultadas: 𖥨ํ∘̥⃟
 
 [Bootstrap5](https://getbootstrap.com/docs/5.3/forms/layout/) 
 
@@ -71,6 +77,6 @@ JavaScript
 
 [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 
-## Autores:
+## Autores: ˚ · .˚ ༘🦋⋆｡˚
 
  Nicolly da Silva D'avila 2'A
