@@ -18,8 +18,7 @@
 
 ## Descrição: ꯭ᬁ🌷💫࿔
 
-O site tem como a sua principal função, informar os dados de endereço do cadastro automáticamente, apenas utilizando o CEP. Sua principal funcionalidade é a detecção do endereço via CEP. Com HTML, GitHub,Visual Studio Code e JavaScript tendo sido utilizadas no processo, além disso foi-se utilizado 3 fontes de consultas diferentes, todas elas presentes com links diretos no penúltimo indíce desse README.
-
+Esse site tem como a sua principal ocupaçao, avisar os dados de endereço do cadastro involutariamente, apenas utilizando o CEP. Sua principal funcionalidade é de constatar o endereço via CEP. Como HTML, GitHub, Visual Studio Code e o JavaScript tendo sido aplicados no processo, além disso foi-se utilizado 3 fontes de consultas diferentes, todas elas presentes com links diretos no penúltimo indíce desse README.
 
 <h4 align="center">
     :construction: 🚧 Projeto em construção 🚧 :construction:
@@ -29,7 +28,7 @@ O site tem como a sua principal função, informar os dados de endereço do cada
 
 ## Introdução: 𓆩♡𓆪
 
-O site tem como a sua principal função, informar os dados de endereço do cadastro automáticamente, apenas utilizando o CEP.
+O site tem como a sua principal atribuiçao, anunciar os dados de endereço do cadastro involuntariamente, apenas utilizando do CEP.
 
 ## Funcionalidades: 📚⃤
 
