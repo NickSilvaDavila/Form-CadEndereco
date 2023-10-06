@@ -12,7 +12,7 @@ const limparFormulario = () => {
 
 // Verificar se CEP e valido
 const eNumero = (numero) => /^[0-9]+$/.test(numero); //testa numero informado com expressao regular
-const cepValido = (cep) => cep.lenght == 8 && eNumero(cep); // verifica tamanho do cep digitado e executa funçao de validaçao do cep eNumero
+const cepValido = (cep) => cep.length == 8 && eNumero(cep); // verifica tamanho do cep digitado e executa funçao de validaçao do cep eNumero
 
 // Funçao para preencher formulario 
 const preencherFormulario = (endereco) => {
@@ -33,8 +33,10 @@ const pesquisarCep = async() => {
        if(addres.hasOwnProperty('erro')){
         alert('CEP nao encontrado');
        }else{
-        preencherFormulario(adrdres);
+        preencherFormulario(addres);
        }
+    }else{
+        alert("CEP Incorreto");
     }
  }
   //adiciona evento DOM ao input do CEP para executar funçao pesquisarCep
